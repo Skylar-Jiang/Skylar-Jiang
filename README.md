@@ -100,12 +100,21 @@ In the **Nankai University “President's Cup”** project, I participated as a 
 
 ## 🎖️ Campus Honors
 
-| Time      | Honor                                                                                                                       |
-| --------- | --------------------------------------------------------------------------------------------------------------------------- |
-| 2024–2025 | **Advanced Officer**, Social Practice and Volunteer Service Supervision Center, Youth League Committee of Nankai University |
-| 2024–2025 | **Outstanding Communist Youth League Member**, Nankai University May Fourth Evaluation                                      |
-| 2024–2025 | **Gongneng Scholarship**, Nankai University                                                                                 |
-| 2024–2025 | **Merit Student**, Nankai University                                                                                        |
+<p>
+  🌟 <b>Advanced Officer</b> · Social Practice and Volunteer Service Supervision Center, NKU Youth League Committee · <i>2024–2025</i>
+</p>
+
+<p>
+  🎗️ <b>Outstanding Communist Youth League Member</b> · Nankai University May Fourth Evaluation · <i>2024–2025</i>
+</p>
+
+<p>
+  🏅 <b>Gongneng Scholarship</b> · Nankai University · <i>2024–2025</i>
+</p>
+
+<p>
+  🎓 <b>Merit Student</b> · Nankai University · <i>2024–2025</i>
+</p>
 
 ---
 
