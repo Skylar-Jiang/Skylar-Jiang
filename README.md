@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Mo 👋
+# Hi there, I'm Skylar-Jiang 👋
 
 ### AI Development Engineer in Training
 
@@ -140,7 +140,7 @@ I am still at an early stage of my GitHub journey, and I use this space to recor
     <img src="https://img.shields.io/badge/Email-linjing.jiang006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Skylar-Jiang">
-    <img src="https://img.shields.io/badge/GitHub-Skylar-Jiang-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Skylar--Jiang-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
