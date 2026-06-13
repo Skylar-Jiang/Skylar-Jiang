@@ -99,13 +99,12 @@ In the **Nankai University “President's Cup”** project, I participated as a 
 ---
 
 ## 🎖️ Campus Honors
-
 <p>
-  🌟 <b>Advanced Officer</b> · Social Practice and Volunteer Service Supervision Center, NKU Youth League Committee · <i>2024–2025</i>
+  🎗️ <b>Outstanding Communist Youth League Member</b> · Nankai University May Fourth Evaluation · <i>2025–2026</i>
 </p>
 
 <p>
-  🎗️ <b>Outstanding Communist Youth League Member</b> · Nankai University May Fourth Evaluation · <i>2024–2025</i>
+  🌟 <b>Advanced Officer</b> · Social Practice and Volunteer Service Supervision Center, NKU Youth League Committee · <i>2024–2025</i>
 </p>
 
 <p>
